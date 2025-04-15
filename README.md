@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="/testproject.ab0485ab.css">
-<title> test Project</title>
 </head>
 <body>
 <mian class="container">
@@ -22,8 +21,7 @@
 </ol>
 <p>"Later, I might decide to come back here and play around with this file some more, to test out some things. It's sort of like a code sandbox that I can use to practice Bootstrap components, styles, and more. If I want to change anything in this project, I just need to re-build and re-deploy my changes. It's that easy!"</p>
 </main>
-<script src="/testproject.cc073436.js"></script>
-<script src="/testproject.3464ddca.js"></script>
+
 </body>
 </html>
 
