@@ -8,9 +8,9 @@
     "build": "parcel build"
   },
   "keywords": [],
-  "author": "",
+  "author": "DanoITguy",
   "license": "ISC",
-  "description": "",
+  "description": "FireBase",
   "devDependencies": {
     "parcel": "^2.14.4"
   },
